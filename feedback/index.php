@@ -1,5 +1,13 @@
 <?php include "inc/header.php" ?>
 
+<?php
+//declare variables
+$name = $email = $body = "";
+$nameErr = $emailErr = $bodyErr = "";
+
+
+?>
+
     <img src="/php-feedback-system/feedback/img/PFP.png" class="w-25 mb-3" alt="">
     <h2>Feedback</h2>
     <p class="lead text-center">Leave feedback for Khan Media</p>
