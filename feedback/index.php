@@ -48,7 +48,7 @@ if(isset($_POST['submit'])){
   }
 }
 ?>
-    <img src="/php-feedback-system/feedback/img/PFP.png" class="w-25 mb-3" alt="">
+    <img src="img/PFP.png" class="w-25 mb-3" alt="">
     <h2>Feedback</h2>
     <p class="lead text-center">Leave feedback for Khan Media</p>
     <form action="<?php echo htmlspecialchars($_SERVER['PHP_SELF']); ?>" class="mt-4 w-75" method = "POST">
