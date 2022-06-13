@@ -1,5 +1,5 @@
 # php-feedback-system
- This is a feedback system I made to practice my back-end development
+ This is a feedback system I made to practice my back-end development. This project uses a MySQl database to store the feedback entered by users and then display them using PHP and Bootstrap classes.
  
  *FEEDBACK CAN BE ENTERED BY ANYONE*
  
